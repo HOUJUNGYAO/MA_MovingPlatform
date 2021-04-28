@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/scen_ 0428_1.fbx.unity
+- path: Assets/0428_2.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
